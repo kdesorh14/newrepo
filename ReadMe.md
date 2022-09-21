@@ -2,8 +2,8 @@
   <main id="main">
   <h1 id=:"title">
     <u>THE LIFE OF A STAR</u>
-  </h1>
     <link rel="stylesheet" href="styles.css" />
+  </h1>
   <figure id="img-div">
     <img id="image" ref="https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg#/media/File:The_Sun_in_white_light.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/1200px-The_Sun_in_white_light.jpg" alt="The Sun" />
     <figcaption id="img-caption">
